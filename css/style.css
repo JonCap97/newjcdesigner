@@ -1,8 +1,8 @@
 body { font-size: 16px; line-height: 1.8; color: #6c757d; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
 
-::-moz-selection { background: yellow; }
+::-moz-selection { background: blue; }
 
-::selection { background: yellow; }
+::selection { background: blue; }
 
 h1, h2, h3, h4, h5 { color: #000; }
 
